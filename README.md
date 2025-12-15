@@ -55,7 +55,7 @@ Before running this project locally, ensure you have the following installed:
     * Create a `.env` file in the root directory.
     * Add your API keys (e.g., if you are using OpenAI or a database):
     ```env
-    REACT_APP_API_KEY=your_api_key_here
+    GROQ_API_KEY=your_api_key_here
     ```
 
 4.  **Run the Application**
