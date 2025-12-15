@@ -4,3 +4,4 @@ Backend/.env
 Backend/.venv/
 node_modules/
 __pycache__/Backend/.env 
+# specific ignore rules 
