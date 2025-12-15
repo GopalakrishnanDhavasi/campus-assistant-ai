@@ -28,7 +28,7 @@ This project is built using a modern frontend stack to ensure speed and reactivi
 
 * **Frontend:** [React.js](https://reactjs.org/) (v18+)
 * **Language:** JavaScript (ES6+)
-* **Styling:** CSS3 / (Add Tailwind or Bootstrap if you are using them)
+* **Styling:**  Tailwind 
 * **State Management:** React Hooks (useState, useEffect)
 * **Version Control:** Git & GitHub
 
