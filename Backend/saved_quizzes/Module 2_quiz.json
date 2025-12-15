@@ -1,0 +1,123 @@
+[
+  {
+    "question": "What is a key benefit of using open source software?",
+    "options": {
+      "A": "Cost savings",
+      "B": "Improved security",
+      "C": "Increased vendor lock-in",
+      "D": "Reduced innovation"
+    },
+    "correct_option": "A",
+    "explanation": "According to the context, open source software offers cost savings, making it a popular choice for various industries."
+  },
+  {
+    "question": "What is Nextcloud primarily used for?",
+    "options": {
+      "A": "Code management and CI/CD pipelines",
+      "B": "File sync, share, calendar, contacts, and collaborative document editing",
+      "C": "System integration and hardware management",
+      "D": "Security scanning and monitoring"
+    },
+    "correct_option": "B",
+    "explanation": "Nextcloud is described as an open-source self-hosted collaboration suite that provides file sync, share, calendar, contacts, and collaborative document editing."
+  },
+  {
+    "question": "What is a key principle of system integration?",
+    "options": {
+      "A": "Interoperability, modularity, scalability, security by design, data consistency, and flexibility",
+      "B": "Cost savings, transparency in code, customization options, innovation, and community collaboration",
+      "C": "High initial setup costs, interoperability issues, maintaining consistent data formats, ensuring real-time synchronization, and addressing cybersecurity risks",
+      "D": "Vendor independence, sovereignty, faster delivery cycles, and operational tradeoffs"
+    },
+    "correct_option": "A",
+    "explanation": "The key principles of system integration include interoperability, modularity, scalability, security by design, data consistency, and flexibility."
+  },
+  {
+    "question": "What is a common challenge in system integration?",
+    "options": {
+      "A": "High initial setup costs, interoperability issues, maintaining consistent data formats, ensuring real-time synchronization, and addressing cybersecurity risks",
+      "B": "Cost savings, transparency in code, customization options, innovation, and community collaboration",
+      "C": "Vendor independence, sovereignty, faster delivery cycles, and operational tradeoffs",
+      "D": "Reduced innovation and increased vendor lock-in"
+    },
+    "correct_option": "A",
+    "explanation": "Common challenges in system integration include high initial setup costs, interoperability issues, maintaining consistent data formats, ensuring real-time synchronization, and addressing cybersecurity risks."
+  },
+  {
+    "question": "What is a key benefit of implementing open-source solutions in business?",
+    "options": {
+      "A": "Reduced risks and secure, scalable operations",
+      "B": "Increased vendor lock-in and costs",
+      "C": "Improved security and reduced innovation",
+      "D": "Cost savings and transparency in code"
+    },
+    "correct_option": "A",
+    "explanation": "When implementing open-source solutions in business, it is essential to assess business needs first, evaluate community support and maturity, conduct a security assessment, pilot the solution before full deployment, ensure licensing compliance, train staff, and plan for ongoing maintenance."
+  },
+  {
+    "question": "What is a popular use case for Nextcloud?",
+    "options": {
+      "A": "DevOps transformation and replacing fragmented tools",
+      "B": "Teacher-student collaboration and ensuring data sovereignty and GDPR compliance",
+      "C": "System integration and hardware management",
+      "D": "Security scanning and monitoring"
+    },
+    "correct_option": "B",
+    "explanation": "Nextcloud has been adopted by schools and universities for teacher-student collaboration, ensuring data sovereignty and GDPR compliance."
+  },
+  {
+    "question": "What is a key lesson learned from case studies?",
+    "options": {
+      "A": "Cost predictability and reduced license fees, vendor independence and sovereignty, faster delivery cycles, and operational tradeoffs",
+      "B": "High initial setup costs, interoperability issues, maintaining consistent data formats, ensuring real-time synchronization, and addressing cybersecurity risks",
+      "C": "Reduced innovation and increased vendor lock-in",
+      "D": "Improved security and reduced scalability"
+    },
+    "correct_option": "A",
+    "explanation": "The case studies highlight several key lessons, including cost predictability and reduced license fees, vendor independence and sovereignty, faster delivery cycles, and operational tradeoffs."
+  },
+  {
+    "question": "What is a key feature of GitLab?",
+    "options": {
+      "A": "File sync, share, calendar, contacts, and collaborative document editing",
+      "B": "Code management and CI/CD pipelines, security scanning and monitoring, issue tracking and project management, and container registry and deployment tools",
+      "C": "System integration and hardware management",
+      "D": "Security scanning and monitoring"
+    },
+    "correct_option": "B",
+    "explanation": "GitLab is a single application for the DevOps lifecycle that manages code, CI/CD pipelines, issues, and supports DevSecOps and compliance needs."
+  },
+  {
+    "question": "What is a key principle of system integration that requires all components to communicate effectively?",
+    "options": {
+      "A": "Modularity",
+      "B": "Scalability",
+      "C": "Interoperability",
+      "D": "Security by design"
+    },
+    "correct_option": "C",
+    "explanation": "Interoperability requires all components to communicate effectively, regardless of platform, language, or vendor."
+  },
+  {
+    "question": "What is a common challenge in system integration that involves legacy systems that may lack modern APIs?",
+    "options": {
+      "A": "High initial setup costs, interoperability issues, maintaining consistent data formats, ensuring real-time synchronization, and addressing cybersecurity risks",
+      "B": "Cost savings, transparency in code, customization options, innovation, and community collaboration",
+      "C": "Vendor independence, sovereignty, faster delivery cycles, and operational tradeoffs",
+      "D": "Reduced innovation and increased vendor lock-in"
+    },
+    "correct_option": "A",
+    "explanation": "However, integrating systems can be complex, involving legacy systems that may lack modern APIs, varying data formats, and differing security protocols."
+  },
+  {
+    "question": "What is a key benefit of using open-source software in business?",
+    "options": {
+      "A": "Cost savings, transparency in code, customization options, innovation, and community collaboration",
+      "B": "Improved security and reduced scalability",
+      "C": "Increased vendor lock-in and costs",
+      "D": "Reduced innovation and increased costs"
+    },
+    "correct_option": "A",
+    "explanation": "Open source software offers cost savings, transparency in code, customization options, innovation, and community collaboration, which can benefit businesses by reducing risks and ensuring secure, scalable operations."
+  }
+]

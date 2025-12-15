@@ -1,0 +1,65 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Python Backend ---
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.env
+*.db
+saved_quizzes/
+saved_summaries/
+chroma_db_storage/
+Backend/.env
+
+# Ignore environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# --- React Frontend ---
+node_modules/
+build/
+dist/
+.DS_Store
+
+# Ignore Python Virtual Environment
+.venv/
+venv/
+env/
+__pycache__/
+
+# Ignore React Build Artifacts
+node_modules/
+dist/
+build/
+.cache/
+.next/
+.out/

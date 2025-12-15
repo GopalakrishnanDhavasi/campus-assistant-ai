@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What type of software has become a popular choice for various industries?",
+    "options": {
+      "A": "Closed-source software",
+      "B": "Commercial software",
+      "C": "Open source software",
+      "D": "Proprietary software"
+    },
+    "correct_option": "C",
+    "explanation": "The correct answer is open source software, as mentioned in the 'Overview' section that it's become a popular choice for various industries due to its transparency, innovation, and flexibility."
+  },
+  {
+    "question": "What features does Nextcloud provide?",
+    "options": {
+      "A": "File syncing, calendar, contacts, and project management",
+      "B": "File sharing, calendar, contacts, email integration, and workflow automation with Nextcloud Flow",
+      "C": "Database management, security scanning, and deployment tools",
+      "D": "CI/CD pipelines, issue tracking, and container registry"
+    },
+    "correct_option": "B",
+    "explanation": "The correct answer is file sharing, calendar, contacts, email integration, and workflow automation with Nextcloud Flow, as mentioned in the 'Nextcloud: A Self-Hosted Collaboration Suite' section."
+  },
+  {
+    "question": "What is the key purpose of system integration?",
+    "options": {
+      "A": "To reduce functionality and improve operational efficiency",
+      "B": "To improve operational efficiency, data flow, and unified management",
+      "C": "To increase redundancy and improve customer satisfaction",
+      "D": "To reduce costs and improve customer service"
+    },
+    "correct_option": "B",
+    "explanation": "The correct answer is to improve operational efficiency, data flow, and unified management, as mentioned in the 'System Integration: Combining Hardware and Software Components' section."
+  },
+  {
+    "question": "What is one of the key principles of system integration?",
+    "options": {
+      "A": "Interoperability, modularity, scalability, and consistency",
+      "B": "Modularity, scalability, security, and data consistency",
+      "C": "Flexibility, scalability, modularity, and security",
+      "D": "Interoperability, modularity, scalability, security by design, and flexibility"
+    },
+    "correct_option": "D",
+    "explanation": "The correct answer is interoperability, modularity, scalability, security by design, and flexibility, as mentioned in the 'Key Principles of System Integration' section."
+  },
+  {
+    "question": "What are some challenges in integrating systems?",
+    "options": {
+      "A": "Ensuring real-time synchronization, maintaining consistent data formats, and addressing cybersecurity risks",
+      "B": "Maintaining consistent data formats, ensuring real-time synchronization, and varying data formats",
+      "C": "Addressing cybersecurity risks, maintaining consistent data formats, and interoperability issues",
+      "D": "High initial setup costs, interoperability issues, and differing security protocols"
+    },
+    "correct_option": "D",
+    "explanation": "The correct answer is high initial setup costs, interoperability issues, and differing security protocols, as mentioned in the 'Challenges and Best Practices for System Integration and Open-Source Implementation' section."
+  },
+  {
+    "question": "What can organizations achieve by implementing open-source solutions?",
+    "options": {
+      "A": "Cost efficiency and flexible systems",
+      "B": "Operational tradeoffs that require IT skills",
+      "C": "Faster delivery cycles and vendor independence",
+      "D": "All of the above"
+    },
+    "correct_option": "D",
+    "explanation": "The correct answer is all of the above, as mentioned in the 'Case Studies and Lessons Learned' section that organizations can achieve cost efficiency, flexible systems, faster delivery cycles, and vendor independence."
+  },
+  {
+    "question": "What is Nextcloud primarily used for?",
+    "options": {
+      "A": "Teacher-student collaboration, GDPR compliance, and file sharing",
+      "B": "DevOps transformation, release cycle speed, and vendor independence",
+      "C": "Single platform for DevOps, project management, and CI/CD pipelines",
+      "D": "Database management, security scanning, and deployment tools"
+    },
+    "correct_option": "A",
+    "explanation": "The correct answer is teacher-student collaboration, GDPR compliance, and file sharing, as mentioned in the 'Case Studies and Lessons Learned' section."
+  },
+  {
+    "question": "What is the goal of system integration?",
+    "options": {
+      "A": "To increase redundancy and improve customer satisfaction",
+      "B": "To improve operational efficiency, data flow, and unified management",
+      "C": "To reduce costs and improve customer service",
+      "D": "To improve business processes and collaboration"
+    },
+    "correct_option": "B",
+    "explanation": "The correct answer is to improve operational efficiency, data flow, and unified management, as mentioned in the 'System Integration: Combining Hardware and Software Components' section."
+  },
+  {
+    "question": "What is the principle of interoperability in system integration?",
+    "options": {
+      "A": "Requires all components to communicate effectively, regardless of platform, language, or vendor",
+      "B": "Involves building systems as modular units that can be upgraded, replaced, or scaled independently",
+      "C": "Aims to reduce redundancy and improve operational efficiency",
+      "D": "Ensures real-time synchronization and maintains consistent data formats"
+    },
+    "correct_option": "A",
+    "explanation": "The correct answer is requires all components to communicate effectively, regardless of platform, language, or vendor, as mentioned in the 'Key Principles of System Integration' section."
+  },
+  {
+    "question": "What can organizations achieve by following the key principles of system integration?",
+    "options": {
+      "A": "Cost efficiency and flexible systems",
+      "B": "Reduced redundancy and improved operational efficiency",
+      "C": "Enhanced collaboration and reduced risks",
+      "D": "All of the above"
+    },
+    "correct_option": "D",
+    "explanation": "The correct answer is all of the above, as mentioned in the 'Conclusion' section that organizations can achieve cost efficiency, flexible systems, reduced risks, and enhanced collaboration."
+  }
+]
