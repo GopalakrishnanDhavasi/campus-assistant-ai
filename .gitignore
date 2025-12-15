@@ -5,3 +5,9 @@ Backend/.venv/
 node_modules/
 __pycache__/Backend/.env 
 # specific ignore rules 
+chroma_db_storage/ 
+saved_quizzes/ 
+saved_summaries/ 
+chroma_db_storage/ 
+saved_summaries/ 
+saved_quizzes/ 
