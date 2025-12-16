@@ -67,14 +67,44 @@ Before running this project locally, ensure you have the following installed:
 
 ### Project Structure
 ```text
-campus-assistant-ai/
-├── public/              # Static assets (images, favicon, manifest)
-├── src/
-│   ├── components/      # Reusable UI components (Buttons, Chatbox, etc.)
-│   ├── pages/           # Full page views (Home, About, Dashboard)
-│   ├── services/        # API calls and backend logic connections
-│   ├── App.js           # Main application component
-│   └── index.js         # Entry point
-├── .gitignore           # Files to exclude from Git
-├── package.json         # Project metadata and dependencies
-└── README.md            # Project documentation
+Campus_Assistant/
+│
+├── README.md               # Documentation for the whole project
+├── .gitignore              # Ignore node_modules, venv, and .env files
+│
+├── backend/                # 🐍 Python (FastAPI/Flask)
+│   ├── main.py             # Entry point (The file you run with uvicorn)
+│   ├── requirements.txt    # Python dependencies (fastapi, uvicorn, pypdf2, etc.)
+│   ├── .env                # API Keys (OpenAI, Gemini, etc.) - DO NOT PUSH TO GIT
+│   │
+│   ├── routers/            # API Routes (Endpoints)
+│   │   ├── chat.py         # Logic for Q&A endpoints
+│   │   ├── upload.py       # Logic for PDF upload endpoints
+│   │   └── quiz.py         # Logic for Quiz generation
+│   │
+│   ├── services/           # Business Logic & AI Processing
+│   │   ├── pdf_parser.py   # Code to extract text from PDFs
+│   │   ├── ai_engine.py    # Code to talk to LLMs (Gemini/OpenAI)
+│   │   └── summarizer.py   # Logic to summarize text
+│   │
+│   └── temp_uploads/       # Temporary folder to store uploaded PDFs
+│
+└── frontend/campus_assistant              # ⚛️ React.js
+    ├── package.json        # Frontend dependencies
+    ├── public/
+    └── src/
+        ├── api/            # Replaces 'services' - calls to your Backend API
+        │   └── axiosConfig.js
+        │
+        ├── components/     # Reusable UI Parts
+        │   ├── ChatInterface.js
+        │   ├── FileUpload.js     # Drag & Drop component
+        │   ├── QuizCard.js       # To display generated quizzes
+        │   └── SummaryView.js    # To display summaries
+        │
+        ├── pages/
+        │   ├── Dashboard.js      # Main View
+        │   └── Login.js
+        │
+        ├── App.js
+        └── index.js
